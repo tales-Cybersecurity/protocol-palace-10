@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "protocols": "Protocol Categories",
+    "finalTest": "Final Test",
+    "progress": "Progress",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Network & Security Protocols",
+    "subtitle": "Master the protocols that power and protect the internet",
+    "cta": "Start Learning",
+    "ctaProgress": "View Progress",
+    "stats": {
+      "protocols": "Protocols",
+      "categories": "Categories",
+      "questions": "Quiz Questions"
+    },
+    "features": {
+      "learn": "Interactive Lessons",
+      "learnDesc": "Detailed protocol breakdowns with real-world examples and Wireshark filters",
+      "quiz": "Knowledge Checks",
+      "quizDesc": "5-question quizzes per protocol with instant feedback",
+      "test": "Final Assessment",
+      "testDesc": "30 randomized questions covering all protocols"
+    }
+  },
+  "protocols": {
+    "title": "Protocol Categories",
+    "subtitle": "Explore protocols organized by function",
+    "viewCategory": "Explore",
+    "protocolCount": "protocols"
+  },
+  "category": {
+    "backToCategories": "Back to Categories",
+    "viewLesson": "Start Lesson"
+  },
+  "lesson": {
+    "backToCategory": "Back to Category",
+    "whatItIs": "What It Is",
+    "osiLayer": "OSI / TCP-IP Layer",
+    "ports": "Typical Ports",
+    "realLife": "Real-World Usage",
+    "securityRisks": "Security Considerations",
+    "wireshark": "Wireshark Analysis",
+    "commands": "Command Examples",
+    "keyTakeaways": "Key Takeaways",
+    "quiz": "Knowledge Check",
+    "commandExplanation": "What this does:",
+    "filterTip": "Wireshark filter:"
+  },
+  "quiz": {
+    "question": "Question",
+    "of": "of",
+    "checkAnswer": "Check Answer",
+    "next": "Next Question",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "correctAnswer": "The correct answer is:",
+    "score": "Your Score",
+    "retry": "Retry Quiz",
+    "completed": "Quiz Complete!",
+    "true": "True",
+    "false": "False",
+    "selectAnswer": "Select an answer"
+  },
+  "finalTest": {
+    "title": "Final Assessment",
+    "subtitle": "Test your knowledge across all protocols",
+    "start": "Start Test",
+    "questionsCount": "30 questions from the entire curriculum",
+    "submit": "Submit Test",
+    "results": "Test Results",
+    "score": "Score",
+    "missedTopics": "Topics to Review",
+    "suggestedReview": "Suggested Lessons",
+    "retake": "Retake Test",
+    "questionOf": "Question {current} of {total}",
+    "timeElapsed": "Time Elapsed"
+  },
+  "progress": {
+    "title": "Your Progress",
+    "subtitle": "Track your learning journey",
+    "completedLessons": "Completed Lessons",
+    "totalProtocols": "Total Protocols",
+    "averageScore": "Average Score",
+    "quizResults": "Quiz Results",
+    "noProgress": "No progress yet. Start a lesson to begin tracking!",
+    "protocol": "Protocol",
+    "score": "Score",
+    "date": "Completed",
+    "reset": "Reset All Progress",
+    "resetConfirm": "Are you sure? This cannot be undone.",
+    "finalTestHistory": "Final Test History",
+    "attempt": "Attempt"
+  },
+  "categories": {
+    "fundamentals": { "name": "Fundamentals", "description": "Core networking protocols that form the foundation" },
+    "transport": { "name": "Transport", "description": "Connection and data delivery protocols" },
+    "core-services": { "name": "Core Services", "description": "Essential network services" },
+    "web": { "name": "Web", "description": "Web communication protocols" },
+    "remote-access": { "name": "Remote Access", "description": "Remote system access protocols" },
+    "file-sharing": { "name": "File & Sharing", "description": "File transfer and sharing protocols" },
+    "email": { "name": "Email", "description": "Email delivery and security protocols" },
+    "security-identity": { "name": "Security / Identity", "description": "Encryption, authentication, and identity protocols" }
+  }
+}
