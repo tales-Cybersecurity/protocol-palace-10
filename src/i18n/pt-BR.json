@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Início",
+    "protocols": "Categorias",
+    "finalTest": "Teste Final",
+    "progress": "Progresso",
+    "language": "Idioma"
+  },
+  "home": {
+    "title": "Protocolos de Rede & Segurança",
+    "subtitle": "Domine os protocolos que alimentam e protegem a internet",
+    "cta": "Começar a Aprender",
+    "ctaProgress": "Ver Progresso",
+    "stats": {
+      "protocols": "Protocolos",
+      "categories": "Categorias",
+      "questions": "Questões"
+    },
+    "features": {
+      "learn": "Lições Interativas",
+      "learnDesc": "Análises detalhadas de protocolos com exemplos reais e filtros Wireshark",
+      "quiz": "Verificação de Conhecimento",
+      "quizDesc": "Quiz de 5 perguntas por protocolo com feedback instantâneo",
+      "test": "Avaliação Final",
+      "testDesc": "30 questões aleatórias cobrindo todos os protocolos"
+    }
+  },
+  "protocols": {
+    "title": "Categorias de Protocolos",
+    "subtitle": "Explore protocolos organizados por função",
+    "viewCategory": "Explorar",
+    "protocolCount": "protocolos"
+  },
+  "category": {
+    "backToCategories": "Voltar às categorias",
+    "viewLesson": "Iniciar Lição"
+  },
+  "lesson": {
+    "backToCategory": "Voltar à categoria",
+    "whatItIs": "O Que É",
+    "osiLayer": "Camada OSI / TCP-IP",
+    "ports": "Portas Típicas",
+    "realLife": "Uso no Mundo Real",
+    "securityRisks": "Considerações de Segurança",
+    "wireshark": "Análise Wireshark",
+    "commands": "Exemplos de Comandos",
+    "keyTakeaways": "Pontos-Chave",
+    "quiz": "Verificação de Conhecimento",
+    "commandExplanation": "O que isso faz:",
+    "filterTip": "Filtro Wireshark:"
+  },
+  "quiz": {
+    "question": "Questão",
+    "of": "de",
+    "checkAnswer": "Verificar",
+    "next": "Próxima Questão",
+    "correct": "Correto!",
+    "incorrect": "Incorreto",
+    "correctAnswer": "A resposta correta é:",
+    "score": "Sua Pontuação",
+    "retry": "Tentar Novamente",
+    "completed": "Quiz Concluído!",
+    "true": "Verdadeiro",
+    "false": "Falso",
+    "selectAnswer": "Selecione uma resposta"
+  },
+  "finalTest": {
+    "title": "Avaliação Final",
+    "subtitle": "Teste seu conhecimento em todos os protocolos",
+    "start": "Iniciar Teste",
+    "questionsCount": "30 questões de todo o currículo",
+    "submit": "Enviar Teste",
+    "results": "Resultados",
+    "score": "Pontuação",
+    "missedTopics": "Tópicos para Revisar",
+    "suggestedReview": "Lições Sugeridas",
+    "retake": "Refazer Teste",
+    "questionOf": "Questão {current} de {total}",
+    "timeElapsed": "Tempo Decorrido"
+  },
+  "progress": {
+    "title": "Seu Progresso",
+    "subtitle": "Acompanhe sua jornada de aprendizado",
+    "completedLessons": "Lições Concluídas",
+    "totalProtocols": "Total de Protocolos",
+    "averageScore": "Pontuação Média",
+    "quizResults": "Resultados dos Quiz",
+    "noProgress": "Nenhum progresso ainda. Comece uma lição!",
+    "protocol": "Protocolo",
+    "score": "Pontuação",
+    "date": "Concluído em",
+    "reset": "Resetar Progresso",
+    "resetConfirm": "Tem certeza? Isso não pode ser desfeito.",
+    "finalTestHistory": "Histórico de Testes",
+    "attempt": "Tentativa"
+  },
+  "categories": {
+    "fundamentals": { "name": "Fundamentos", "description": "Protocolos de rede fundamentais" },
+    "transport": { "name": "Transporte", "description": "Protocolos de conexão e entrega de dados" },
+    "core-services": { "name": "Serviços Essenciais", "description": "Serviços essenciais de rede" },
+    "web": { "name": "Web", "description": "Protocolos de comunicação web" },
+    "remote-access": { "name": "Acesso Remoto", "description": "Protocolos de acesso a sistemas remotos" },
+    "file-sharing": { "name": "Arquivos & Compartilhamento", "description": "Protocolos de transferência e compartilhamento" },
+    "email": { "name": "Email", "description": "Protocolos de email e segurança" },
+    "security-identity": { "name": "Segurança / Identidade", "description": "Criptografia, autenticação e identidade" }
+  }
+}

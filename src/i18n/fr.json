@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "protocols": "Catégories",
+    "finalTest": "Test Final",
+    "progress": "Progression",
+    "language": "Langue"
+  },
+  "home": {
+    "title": "Protocoles Réseau & Sécurité",
+    "subtitle": "Maîtrisez les protocoles qui alimentent et protègent Internet",
+    "cta": "Commencer",
+    "ctaProgress": "Voir la progression",
+    "stats": {
+      "protocols": "Protocoles",
+      "categories": "Catégories",
+      "questions": "Questions"
+    },
+    "features": {
+      "learn": "Leçons Interactives",
+      "learnDesc": "Analyses détaillées des protocoles avec exemples concrets et filtres Wireshark",
+      "quiz": "Vérification des connaissances",
+      "quizDesc": "Quiz de 5 questions par protocole avec retour instantané",
+      "test": "Évaluation Finale",
+      "testDesc": "30 questions aléatoires couvrant tous les protocoles"
+    }
+  },
+  "protocols": {
+    "title": "Catégories de Protocoles",
+    "subtitle": "Explorez les protocoles organisés par fonction",
+    "viewCategory": "Explorer",
+    "protocolCount": "protocoles"
+  },
+  "category": {
+    "backToCategories": "Retour aux catégories",
+    "viewLesson": "Commencer la leçon"
+  },
+  "lesson": {
+    "backToCategory": "Retour à la catégorie",
+    "whatItIs": "Qu'est-ce que c'est",
+    "osiLayer": "Couche OSI / TCP-IP",
+    "ports": "Ports Typiques",
+    "realLife": "Utilisation Réelle",
+    "securityRisks": "Considérations de Sécurité",
+    "wireshark": "Analyse Wireshark",
+    "commands": "Exemples de Commandes",
+    "keyTakeaways": "Points Clés",
+    "quiz": "Vérification des Connaissances",
+    "commandExplanation": "Ce que cela fait :",
+    "filterTip": "Filtre Wireshark :"
+  },
+  "quiz": {
+    "question": "Question",
+    "of": "sur",
+    "checkAnswer": "Vérifier",
+    "next": "Question Suivante",
+    "correct": "Correct !",
+    "incorrect": "Incorrect",
+    "correctAnswer": "La bonne réponse est :",
+    "score": "Votre Score",
+    "retry": "Réessayer",
+    "completed": "Quiz Terminé !",
+    "true": "Vrai",
+    "false": "Faux",
+    "selectAnswer": "Sélectionnez une réponse"
+  },
+  "finalTest": {
+    "title": "Évaluation Finale",
+    "subtitle": "Testez vos connaissances sur tous les protocoles",
+    "start": "Commencer le Test",
+    "questionsCount": "30 questions de l'ensemble du programme",
+    "submit": "Soumettre",
+    "results": "Résultats",
+    "score": "Score",
+    "missedTopics": "Sujets à Revoir",
+    "suggestedReview": "Leçons Suggérées",
+    "retake": "Reprendre le Test",
+    "questionOf": "Question {current} sur {total}",
+    "timeElapsed": "Temps Écoulé"
+  },
+  "progress": {
+    "title": "Votre Progression",
+    "subtitle": "Suivez votre parcours d'apprentissage",
+    "completedLessons": "Leçons Terminées",
+    "totalProtocols": "Total Protocoles",
+    "averageScore": "Score Moyen",
+    "quizResults": "Résultats des Quiz",
+    "noProgress": "Aucune progression pour le moment. Commencez une leçon !",
+    "protocol": "Protocole",
+    "score": "Score",
+    "date": "Terminé le",
+    "reset": "Réinitialiser",
+    "resetConfirm": "Êtes-vous sûr ? Cette action est irréversible.",
+    "finalTestHistory": "Historique des Tests",
+    "attempt": "Tentative"
+  },
+  "categories": {
+    "fundamentals": { "name": "Fondamentaux", "description": "Protocoles réseau fondamentaux" },
+    "transport": { "name": "Transport", "description": "Protocoles de connexion et livraison de données" },
+    "core-services": { "name": "Services Essentiels", "description": "Services réseau essentiels" },
+    "web": { "name": "Web", "description": "Protocoles de communication web" },
+    "remote-access": { "name": "Accès Distant", "description": "Protocoles d'accès aux systèmes distants" },
+    "file-sharing": { "name": "Fichiers & Partage", "description": "Protocoles de transfert et partage de fichiers" },
+    "email": { "name": "Email", "description": "Protocoles de messagerie et sécurité" },
+    "security-identity": { "name": "Sécurité / Identité", "description": "Chiffrement, authentification et protocoles d'identité" }
+  }
+}
