@@ -24,6 +24,7 @@ export default function Navigation() {
     { to: `/${locale}/protocols`, label: t('nav.protocols') },
     { to: `/${locale}/final-test`, label: t('nav.finalTest') },
     { to: `/${locale}/progress`, label: t('nav.progress') },
+    { to: `/${locale}/about`, label: t('nav.about') },
   ];
 
   return (
